@@ -3,7 +3,7 @@
 This is a web application that performs sentiment analysis on given text using Natural Language Processing (NLP). The application allows users to input text (reviews, tweets, etc.) and receives sentiment results such as **Positive** or **Negative**.
 
 ## Features
-- **Real-time Sentiment Analysis**: Classifies user input text as **Positive**, **Negative**, or **Neutral**.
+- **Real-time Sentiment Analysis**: Classifies user input text as **Positive** or **Negative**.
 - **User-friendly Interface**: Built with **Streamlit** to provide an easy and interactive web interface.
 - **Emoji-based Feedback**: Display sentiment with emojis (😊 for Positive, 😞 for Negative).
 
