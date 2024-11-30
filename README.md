@@ -1,6 +1,6 @@
 # Sentiment Analysis Web Application
 
-This is a web application that performs sentiment analysis on given text using Natural Language Processing (NLP). The application allows users to input text (reviews, tweets, etc.) and receives sentiment results such as **Positive**, **Negative**, or **Neutral**.
+This is a web application that performs sentiment analysis on given text using Natural Language Processing (NLP). The application allows users to input text (reviews, tweets, etc.) and receives sentiment results such as **Positive** or **Negative**.
 
 ## Features
 - **Real-time Sentiment Analysis**: Classifies user input text as **Positive**, **Negative**, or **Neutral**.
